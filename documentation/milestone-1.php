@@ -6,7 +6,7 @@
 					<p> We want provide the best service to our customer. We want to help to satisfy their needs.</p>
 	            <p> following that spirit we want that any  person or businees , large or small  get the best  </p>
 					<p> results and getting big profits for theirs investment.</p>
-
+	<img src="documentation/pictures.jpg." alt pictures
 	      <body>
 				<div clas="content ">
 					<div clas="header">gTitle</div>
@@ -20,7 +20,7 @@
 					<div class="main-content">
 						you write here
 						&nbsp
-					<img src="documentation/pictures.jpg" width="330"/>
+
 				</div>
 				<h1> GOAL</h1>
 				<p> Create a web site for a existent business so that business increase profits.</p>
