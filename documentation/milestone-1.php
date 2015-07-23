@@ -35,9 +35,10 @@
 				<p> Latino  Population, Hispanic. Mexican Inmigrant</p>
 					<p>, young populaton that wants good phones with no contract,</p>
 					<p> peers and profesinals that they want more businnes in a fast growing sector</p>
+
 					<h1> Specific Goals of the PWP </h1>
 					<li> Serve as example of having a website for a traditional business and getting future customers that
-						they want contrat ypur services.</li>
+						they want contract your services.</li>
 					<li> Increase sales for the businees that contracted your service</li>
 					<li> Put customers in the web, so they can brand their busines a ours as web developers</li>
 					<li> help the community reaching  global markets </li>
